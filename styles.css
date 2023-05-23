@@ -3,9 +3,9 @@
 div{
 	display:inline;
 }
-.container::after {
-	color: #0000ff;
-}
 div::before {
-	color: #0000ff;
+	color: rgb(0, 0, 255);
+}
+div::afetr {
+	color: rgb(0, 0, 255);
 }
