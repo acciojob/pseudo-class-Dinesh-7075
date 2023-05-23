@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+
+div{
+	display:inline;
+}
+.container::after {
+	color: #0000ff;
+}
+div::before {
+	color: #0000ff;
+}
